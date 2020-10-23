@@ -5,8 +5,8 @@ nav:
 
 theme: 
     name: material
-    favicon: 'img/RLCMS-LOGO-icon.png'
-    logo: 'img/RLCMS-LOGO-CIRCLE-COLOR.png'
+    favicon: 'img/rlcms_logo_crop.png'
+    logo: 'img/rlcms_logo_crop.png'
 
 extra_css:
     - stylesheets/extra.css
